@@ -1,5 +1,5 @@
-Inventing on Principle
-Bret Victor <bret@worrydream.com>
+Inventing on Principle  
+Bret Victor <bret@worrydream.com>  
 Presented at CUSEC 2012
 
 Original presentation (https://vimeo.com/36579366)
