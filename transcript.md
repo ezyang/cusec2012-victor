@@ -4,7 +4,7 @@ Presented at CUSEC 2012
 
 Original presentation (https://vimeo.com/36579366)
 
-Transcribed by Edward Z. Yang <ezyang@mit.edu>
+Transcribed by Edward Z. Yang <ezyang@mit.edu>, An Yu <ayu3500@gmail.com> and Tal Benisty <benoche@gmail.com>
 
 The original content was licensed under CC-BY (http://creativecommons.org/licenses/by/3.0/).
 
