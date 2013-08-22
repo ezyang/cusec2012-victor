@@ -1,8 +1,10 @@
 Inventing on Principle
+
 Bret Victor <bret@worrydream.com>
+
 Presented at CUSEC 2012
 
-Original presentation (https://vimeo.com/36579366)
+Original presentation: https://vimeo.com/36579366
 
 Transcribed by Edward Z. Yang <ezyang@mit.edu>, An Yu <ayu3500@gmail.com> and Tal Benisty <benoche@gmail.com>
 
